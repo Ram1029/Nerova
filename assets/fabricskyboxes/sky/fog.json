@@ -1,0 +1,50 @@
+{
+	"schemaVersion": 2,
+	"type": "monocolor",
+	"blend": {"type" : "add"},
+	"color": {"red": 0.0, "green": 0.0, "blue": 0.0, "alpha": 0.0},
+	"properties": {
+		"priority": 2,
+		"fade": {
+			"startFadeIn": 23333,
+			"endFadeIn": 221,
+			"startFadeOut": 12000,
+			"endFadeOut": 13000,
+			"alwaysOn": false
+			},
+		"rotation": {
+			"rotationSpeedZ": 0,
+			"static": [0.0, 0.0, 0.0],
+			"axis": [0.0, 0.0, 0.0],
+			"skyboxRotation":true
+		},
+		"transitionInDuration": 10,
+		"transitionOutDuration": 15,
+		"changeFog": true,
+		"fogColors": {"red": 0.75, "green": 1.0, "blue": 0.96, "alpha": 1.0},
+		"sunSkyTint": true,
+		"inThickFog": false,
+		"minAlpha": 0.0,
+		"maxAlpha": 1.0
+	},
+	"conditions": {
+		"worlds": ["minecraft:overworld"],
+		"dimensions": [],
+		"weather": ["clear", "rain", "thunder", "snow"],
+		"biomes": [],
+		"xRanges": [],
+		"yRanges": [],
+		"zRanges": [],
+		"loop": {},
+		"effects": []
+	},
+	"decorations": {
+		"blend": {"type" : "decorations"},
+		"showSun": false,
+		"showMoon": false,
+		"showStars": false,
+		"rotation":{
+			"skyboxRotation":false
+		}
+	}
+}

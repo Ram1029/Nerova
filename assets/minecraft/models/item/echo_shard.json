@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/echo_shard"
+  },
+  "overrides": [
+	{ "predicate": { "custom_model_data": 1 }, "model": "nerova:item/tech/notepad/empty" },
+	{ "predicate": { "custom_model_data": 2 }, "model": "nerova:item/tech/notepad/creature_info" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "nerova:item/tech/notepad/blocked" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "nerova:item/tech/notepad/quest" },
+	{ "predicate": { "custom_model_data": 5 }, "model": "nerova:item/tech/notepad/elat" },
+	{ "predicate": { "custom_model_data": 6 }, "model": "nerova:item/tech/notepad/key" },
+	
+	{ "predicate": { "custom_model_data": 1001 }, "model": "nerova:item/tech/neurointerface" }
+  ]
+}

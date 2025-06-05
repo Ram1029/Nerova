@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "block/mag_shulk",
+		"particle": "block/magenta_shulker_box"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [4, 8, 8, 16], "texture": "#0","cullface": "north"},
+				"east": {"uv": [8, 8, 12, 16], "texture": "#0","cullface": "east"},
+				"south": {"uv": [12, 8, 16, 16], "texture": "#0","cullface": "south"},
+				"west": {"uv": [0, 8, 4, 16], "texture": "#0","cullface": "west"},
+				"up": {"uv": [4, 0, 8, 8], "texture": "#0","cullface": "up"},
+				"down": {"uv": [8, 0, 12, 8], "texture": "#0","cullface": "down"}
+			}
+		}
+	]
+}

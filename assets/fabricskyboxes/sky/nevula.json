@@ -1,0 +1,50 @@
+{
+	"schemaVersion": 2,
+	"type": "monocolor",
+	"blend": {"type" : "add"},
+	"color": {"red": 0.0, "green": 0.0, "blue": 0.0, "alpha": 0.0},
+	"properties": {
+		"priority": 3,
+		"fade": {
+			"alwaysOn": true
+			},
+		"rotation": {
+			"rotationSpeedY": 0.0,
+			"static": [0.0, 0.0, 0.0],
+			"axis": [0.0, 0.0, 0.0]
+		},
+		"transitionInDuration": 10,
+		"transitionOutDuration": 15,
+		"changeFog": false,
+		"fogColors": {"red": 0.84, "green": 0.91, "blue": 0.97, "alpha": 1.0},
+		"sunSkyTint": false,
+		"inThickFog": true,
+		"minAlpha": 0.0,
+		"maxAlpha": 1.0
+	},
+	"conditions": {
+		"worlds": ["minecraft:overworld"],
+		"dimensions": [],
+		"weather": ["clear", "rain", "thunder", "snow"],
+		"biomes": [],
+		"xRanges": [],
+		"yRanges": [],
+		"zRanges": [],
+		"loop": {},
+		"effects": []
+	},
+	"decorations": {
+		"blend": {"type" : "decorations"},
+		"sun": "minecraft:textures/environment/sun.png",
+		"moon": "minecraft:textures/environment/nevula_phases.png",
+		"showSun": false,
+		"showMoon": true,
+		"showStars": false,  
+		"rotation": {
+			"rotationSpeedZ": 1.29,
+			"static": [0.0, 26.0, 0.0],
+			"axis": [0.0, 26.0, 0.0],
+			"skyboxRotation": false
+		}
+	}
+}

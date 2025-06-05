@@ -1,0 +1,13 @@
+{
+	"providers":[
+		{
+			"type":"bitmap", "file":"gui:gui/clear.png","ascent":13,"height":256,"chars":[ "\u0001" ]
+		},
+		{
+			"type":"bitmap", "file":"gui:gui/menu.png","ascent":13,"height":256,"chars":[ "\u0002" ]
+		},
+		{
+			"type":"bitmap", "file":"gui:gui/stats_menu.png","ascent":13,"height":256,"chars":[ "\u0003" ]
+		}
+	]
+}

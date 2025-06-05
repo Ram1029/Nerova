@@ -1,0 +1,44 @@
+{
+	"providers":[
+		{ "type": "space", "advances": { ".": 2, "<": -180, "-" : -1 } },
+		{
+			"type": "bitmap",
+			"file": "gui:gui/compass_line.png", 
+			"ascent": 7,
+			"chars": ["~"]
+		},
+		{
+			"type": "bitmap",
+			"file": "gui:gui/iconsdefault.png", 
+			"ascent": 7,
+			"chars": ["NESW","P©{}"]
+		},
+		{
+			"type": "bitmap",
+			"file": "gui:gui/icons10.png", 
+			"ascent": 7,
+			"chars": ["\u1001\u1004\u1007\u1010\u1013\u1016",
+			"\u1019\u1022\u1025\u1028\u1031\u1034",
+			"\u1037\u1040\u1043\u1046\u1049\u1052",
+			"\u1055\u1058\u1061\u1064\u1067\u1070"]
+		},
+		{
+			"type": "bitmap",
+			"file": "gui:gui/icons8.png", 
+			"ascent": 7,
+			"chars": ["\u1002\u1005\u1008\u1011\u1014\u1017",
+			"\u1020\u1023\u1026\u1029\u1032\u1035",
+			"\u1038\u1041\u1044\u1047\u1050\u1053",
+			"\u1056\u1059\u1062\u1065\u1068\u1071"]
+		},
+		{
+			"type": "bitmap",
+			"file": "gui:gui/icons6.png", 
+			"ascent": 7,
+			"chars": ["\u1003\u1006\u1009\u1012\u1015\u1018",
+			"\u1021\u1024\u1027\u1030\u1033\u1036",
+			"\u1039\u1042\u1045\u1048\u1051\u1054",
+			"\u1057\u1060\u1063\u1066\u1069\u1072"]
+		}
+	]
+}

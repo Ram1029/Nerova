@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/red_shulk",
+  "textures": {
+    "0": "minecraft:block/black_shulk",
+	"particle": "block/black_shulker_box"
+  }
+}

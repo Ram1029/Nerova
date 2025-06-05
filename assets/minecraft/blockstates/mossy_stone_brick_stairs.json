@@ -1,0 +1,36 @@
+{
+  "variants": {
+
+    "facing=east,half=bottom": {
+      "model": "minecraft:block/black_shulk"
+    },
+    "facing=east,half=top": {
+      "model": "minecraft:block/black_shulk",
+      "x": 270,
+	  "y": 90
+    },
+    "facing=north,half=bottom": {
+      "model": "minecraft:block/black_shulk"
+    },
+    "facing=north,half=top": {
+      "model": "minecraft:block/black_shulk",
+      "x": 270
+    },
+    "facing=south,half=bottom": {
+      "model": "minecraft:block/black_shulk"
+    },
+    "facing=south,half=top": {
+      "model": "minecraft:block/black_shulk",
+      "x": 270,
+      "y": 180
+    },
+    "facing=west,half=bottom": {
+      "model": "minecraft:block/black_shulk"
+    },
+    "facing=west,half=top": {
+      "model": "minecraft:block/black_shulk",
+      "x": 270,
+      "y": 270
+    }
+  }
+}

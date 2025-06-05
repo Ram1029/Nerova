@@ -1,0 +1,24 @@
+{
+	"pack":{
+		"pack_format":15,
+		"description":{
+			"text":"Graphic resources only for 1.21.X version!",
+			"color":"#4cc6ff"
+		},
+  		"supported_formats": {
+ 			"max_inclusive": 46,
+			"min_inclusive": 15
+    		}
+	},
+	"overlays":{
+		"entries":[
+			{
+				"directory":"1_20_4_overlay",
+				"formats":{
+ 					"max_inclusive": 99,
+					"min_inclusive": 22
+				}
+			}
+		]
+	}
+}

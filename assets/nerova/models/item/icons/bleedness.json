@@ -1,0 +1,6 @@
+{
+	"parent":"minecraft:item/icon",
+	"textures":{
+		"layer0":"nerova:item/icons/bleedness"
+	}
+}

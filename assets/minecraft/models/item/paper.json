@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+	{ "predicate": { "custom_model_data": 1 }, "model": "gui:item/eggs" },
+	{ "predicate": { "custom_model_data": 2 }, "model": "gui:item/plus" },
+	{ "predicate": { "custom_model_data": 1001 }, "model": "nerova:item/icons/bleedness" },
+	{ "predicate": { "custom_model_data": 1002 }, "model": "nerova:item/icons/bleedless" },
+	{ "predicate": { "custom_model_data": 1003 }, "model": "nerova:item/icons/fracture" },
+	{ "predicate": { "custom_model_data": 1004 }, "model": "nerova:item/icons/thirstness" },
+	{ "predicate": { "custom_model_data": 1005 }, "model": "nerova:item/icons/hunger" },
+	{ "predicate": { "custom_model_data": 1006 }, "model": "nerova:item/icons/sogoodtobealive" },
+	{ "predicate": { "custom_model_data": 1007 }, "model": "nerova:item/icons/imfine" },
+	{ "predicate": { "custom_model_data": 1008 }, "model": "nerova:item/icons/lifeisgood" },
+	{ "predicate": { "custom_model_data": 1009 }, "model": "nerova:item/icons/rottening" }
+  ]
+}
