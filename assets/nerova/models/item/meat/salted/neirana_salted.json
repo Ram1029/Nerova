@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+   "textures":{
+       "layer0": "nerova:item/meat/neirana",
+       "layer1": "nerova:item/salt_layer"
+    }
+}
