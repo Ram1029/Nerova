@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "nerova:item/creatures/euvia/uvia_pattern_b",
+		"0": "nerova:item/creatures/euvia/euvia_pattern_b",
 		"particle": "nerova:item/creatures/euvia/euvia_pattern_b"
 	},
 	"elements": [
