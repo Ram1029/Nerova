@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:item/icon",
-  "textures": {
-    "layer0": "gui:item/plusik"
-  }
-}
+{"parent": "minecraft:item/generated", "textures": {"layer0": "gui:item/plus"}}

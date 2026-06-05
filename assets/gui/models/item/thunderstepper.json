@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:item/generated",
-   "textures":{
-      "layer0": "gui:item/thunderstepper"
-    }
-}
+{"parent": "minecraft:item/generated", "textures": {"layer0": "gui:item/thunderstepper"}}

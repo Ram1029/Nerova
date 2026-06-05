@@ -1,1 +1,1 @@
-{"parent": "minecraft:item/generated", "textures": {"layer0": "gui:item/eggs"}}
+{"parent": "minecraft:item/generated", "textures": {"layer0": "gui:item/eggs/unique_egg"}}

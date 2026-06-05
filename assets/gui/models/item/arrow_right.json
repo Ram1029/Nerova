@@ -1,1 +1,1 @@
-{"parent": "minecraft:item/generated", "textures": {"layer0": "gui:item"}}
+{"parent": "minecraft:item/generated", "textures": {"layer0": "gui:item/arrow_right"}}
