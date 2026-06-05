@@ -10,5 +10,11 @@
 		"sounds":[
 			"nerova:stars"
 		]
+	},
+	"ambient.safe_zone":{
+		"subtitle":"Ambient while menu on entering to the World",
+		"sounds":[
+			"nerova:safe_zone"
+		]
 	}
 }
