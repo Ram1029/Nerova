@@ -1,7 +1,1 @@
-{
-  "parent": "minecraft:item/generated",
-   "textures":{
-       "layer0": "nerova:item/meat/macalue",
-       "layer1": "nerova:item/salt_layer"
-    }
-}
+{"parent": "minecraft:item/generated", "textures": {"layer1": "nerova:item/salt_layer", "layer0": "nerova:item/meat/macalue"}}

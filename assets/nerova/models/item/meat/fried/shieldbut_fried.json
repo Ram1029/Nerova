@@ -1,1 +1,1 @@
-{"parent": "minecraft:item/generated", "textures": {"layer0": "nerova:item/meat/fried"}}
+{"parent": "minecraft:item/generated", "textures": {"layer0": "nerova:item/meat/fried/shieldbut_fried"}}
