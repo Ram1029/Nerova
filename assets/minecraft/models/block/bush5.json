@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bush_model",
+  "textures": {
+    "texture": "minecraft:block/bush5"
+  }
+}

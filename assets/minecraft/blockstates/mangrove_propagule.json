@@ -28,7 +28,7 @@
       "model": "minecraft:block/mangrove_propagule"
     },
     "age=4,hanging=true": {
-      "model": "minecraft:block/mangrove_propagule_hanging_4"
+      "model": "minecraft:block/bush5"
     }
   }
 }
