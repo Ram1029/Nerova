@@ -4,7 +4,7 @@
       "model": "minecraft:block/palm_leaves"
     },
     "powered=false,shape=ascending_north": {
-      "model": "minecraft:block/powered_rail_raised_ne"
+      "model": "minecraft:block/another_leaves"
     },
     "powered=false,shape=ascending_south": {
       "model": "minecraft:block/powered_rail_raised_sw"
