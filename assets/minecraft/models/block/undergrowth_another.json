@@ -1,0 +1,6 @@
+{
+    "parent": "block/undergrowth",
+    "textures":{
+        "1": "block/undergrowth_another_tape"
+    }
+}
