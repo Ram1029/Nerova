@@ -1,0 +1,25 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"1": "block/undergrowth_tape",
+		"particle": "block/flowering_azalea_leaves"
+	},
+	"elements": [
+		{
+			"name": "1",
+			"from": [-16, 0.225, -16],
+			"to": [32, 0.225, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.225, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 6, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 6, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 6, 0], "texture": "#1"},
+				"up": {"uv": [6, 6, 0, 0], "texture": "#1"},
+				"down": {"uv": [6, 6, 0, 12], "texture": "#1"}
+			}
+		}
+	]
+}
