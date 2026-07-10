@@ -10,8 +10,7 @@
       "model": "minecraft:block/powered_rail_raised_sw"
     },
     "powered=false,shape=ascending_west": {
-      "model": "minecraft:block/powered_rail_raised_sw",
-      "y": 90
+      "model": "minecraft:block/saint_leaves"
     },
     "powered=false,shape=east_west": {
       "model": "minecraft:block/powered_rail",
