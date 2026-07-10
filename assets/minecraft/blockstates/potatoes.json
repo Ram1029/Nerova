@@ -13,7 +13,7 @@
       "model": "minecraft:block/potatoes_stage1"
     },
     "age=4": {
-      "model": "minecraft:block/potatoes_stage2"
+      "model": "minecraft:block/fern3"
     },
     "age=5": {
       "model": "minecraft:block/potatoes_stage2"
