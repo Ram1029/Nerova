@@ -1,5 +1,5 @@
 {
-    "parent": "block/undergrowth",
+    "parent": "block/lily_pad",
     "textures":{
         "1": "block/undergrowth_another_tape"
     }
