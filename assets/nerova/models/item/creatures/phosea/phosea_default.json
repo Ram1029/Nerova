@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "nerova:item/creatures/phosea/Phosea_pattern_a",
-		"particle": "nerova:item/creatures/phosea/Phosea_pattern_a"
+		"0": "nerova:item/creatures/phosea/phosea_pattern_a",
+		"particle": "nerova:item/creatures/phosea/phosea_pattern_a"
 	},
 	"elements": [
 		{
