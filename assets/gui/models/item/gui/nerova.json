@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"1": "nerova"
+		"1": "gui:item/gui/nerova"
 	},
 	"elements": [
 		{

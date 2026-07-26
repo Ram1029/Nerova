@@ -2,9 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "LobbyText",
-		"2": "LobbyBExit",
-		"particle": "LobbyBExit"
+		"layer0": "gui:item/gui/lobby3",
+		"layer1": "gui:item/gui/lobby_text"
 	},
 	"elements": [
 		{

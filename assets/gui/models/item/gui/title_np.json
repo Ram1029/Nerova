@@ -2,8 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "Title",
-		"particle": "Title"
+		"3": "gui:item/gui/title"
 	},
 	"elements": [
 		{
