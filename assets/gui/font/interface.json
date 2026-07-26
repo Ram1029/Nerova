@@ -8,6 +8,9 @@
 		},
 		{
 			"type":"bitmap", "file":"gui:gui/stats_menu.png","ascent":13,"height":256,"chars":[ "\u0003" ]
+		},
+		{
+			"type":"bitmap", "file":"gui:gui/menu_map.png", "ascent":13,"height":256,"chars":[ "\u0004" ]
 		}
 	]
 }
