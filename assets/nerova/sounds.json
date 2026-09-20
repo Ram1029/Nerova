@@ -16,5 +16,11 @@
 		"sounds":[
 			"nerova:safe_zone"
 		]
+	},
+	"effects.poison":{
+		"subtitle": "Hallucinations",
+		"sounds":[
+			"nerova:hallucinations"
+		]
 	}
 }
