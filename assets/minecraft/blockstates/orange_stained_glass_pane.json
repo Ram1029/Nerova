@@ -1,9 +1,9 @@
 {
   "variants": {
-    "east=false,north=false,south=false,waterlogged=false,west=false": {
+    "east=false,north=false,south=false,west=false": {
       "model": "minecraft:block/seafern"
     },
-    "east=true,north=false,south=false,waterlogged=false,west=false": {
+    "east=true,north=false,south=false,west=false": {
       "model": "minecraft:block/seaweed_purple"
     }
   }
